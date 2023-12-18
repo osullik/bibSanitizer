@@ -6,6 +6,19 @@ Tested with:
 - [Python 3.11.1](https://www.python.org/downloads/release/python-3111/)
 - [bibtexparser 1.4.0](https://pypi.org/project/bibtexparser/)
 
+# Setup
+Create a virtual environment: 
+
+    python -m venv bib_env
+
+activate it: 
+
+    source bib_env/bin/activate
+
+install dependencies: 
+
+    pip install -r  requirements.txt
+
 # Usage: 
 ## Command line args: 
 
